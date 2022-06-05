@@ -1,5 +1,5 @@
 {
-  "name": "blog",
+  "name": "blog1",
   "private": true,
   "dependencies": {
     "@rails/actioncable": "^6.0.0",
@@ -13,7 +13,6 @@
   },
   "version": "0.1.0",
   "devDependencies": {
-    "@webpack-cli/serve": "^1.6.1",
     "webpack-dev-server": "^4.9.1"
   }
 }
