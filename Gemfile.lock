@@ -203,6 +203,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  actiontext (~> 6.0, >= 6.0.4.1)
   bootsnap (>= 1.4.2)
   byebug
   capybara (>= 2.15)
