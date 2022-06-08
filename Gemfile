@@ -55,3 +55,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 
 gem 'actiontext', '~> 6.0', '>= 6.0.4.1'
+
+gem 'devise'
